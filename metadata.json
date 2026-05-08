@@ -1,0 +1,6 @@
+{
+  "name": "BizInsight: Smart Data Analysis for Small Business",
+  "description": "A comprehensive data analysis and reporting tool for small businesses. Upload Excel/CSV files to generate AI-powered insights, visualization dashboards, and professional PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Data Analysis", "Business Intelligence", "PDF Reporting"]
+}
